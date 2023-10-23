@@ -1,0 +1,15 @@
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/csharp.csproj.AssemblyReference.cache
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/csharp.AssemblyInfoInputs.cache
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/csharp.AssemblyInfo.cs
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/csharp.csproj.CoreCompileInputs.cache
+/home/catcorn/Загрузки/test/csharp/bin/Debug/net7.0/csharp
+/home/catcorn/Загрузки/test/csharp/bin/Debug/net7.0/csharp.deps.json
+/home/catcorn/Загрузки/test/csharp/bin/Debug/net7.0/csharp.runtimeconfig.json
+/home/catcorn/Загрузки/test/csharp/bin/Debug/net7.0/csharp.dll
+/home/catcorn/Загрузки/test/csharp/bin/Debug/net7.0/csharp.pdb
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/csharp.dll
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/refint/csharp.dll
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/csharp.pdb
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/csharp.genruntimeconfig.cache
+/home/catcorn/Загрузки/test/csharp/obj/Debug/net7.0/ref/csharp.dll
